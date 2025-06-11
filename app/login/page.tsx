@@ -125,19 +125,7 @@ export default function LoginPage() {
             </Button>
           </form>
 
-          <div className="mt-6 p-4 bg-blue-50 rounded-lg">
-            <p className="text-sm font-medium text-blue-900 mb-2">Demo Credentials:</p>
-            <div className="space-y-1 text-xs text-blue-700">
-              <p>
-                <strong>Admin:</strong> admin@ijg.com / admin123
-              </p>
-              <p>
-                <strong>Editor:</strong> editor@ijg.com / editor123
-              </p>
-              <p>
-                <strong>Viewer:</strong> viewer@ijg.com / viewer123
-              </p>
-            </div>
+          
           </div>
         </CardContent>
       </Card>
